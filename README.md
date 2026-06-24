@@ -87,3 +87,117 @@ This project is released as an open and collaborative initiative. Please refer t
 ---
 
 *"Language connects people. A shared framework can make those connections easier while preserving the richness of every language."*
+
+
+
+🇦🇱 ALFABETI MATRIX + IPA (PURE MATRIX / CODE)
+
+==================================================
+ZANORET
+==================================================
+A   E   Ë   I   O   U   Y
+/a/ /e/ /ə/ /i/ /o/ /u/ /y/
+
+∅   (zero onset)
+
+∅́  ∅̄  ∅̈  ∅̇  ∅̊  ∅̃  ∅̌
+a   e   ə   i   o   u   y
+
+
+==================================================
+BASHKËTINGËLLORE MATRIX
+==================================================
+        BASE    VARIANTS (diacritics only)
+
+B       /b/
+        B́  B̄  B̈  Ḃ  B̊  B̃  B̌
+
+C       /ts/
+        Ć  C̄  C̈  Ċ  C̊  C̃  Č
+
+Ç       /tʃ/
+        Ḉ  Ç̄  Ç̈  Ç̇  Ç̊  Ç̃  Ç̌
+
+D       /d/
+        D́  D̄  D̈  Ḋ  D̊  D̃  Ď
+
+ꓷ       /ð/
+        ꓷ́  ꓷ̄  ꓷ̈  ꓷ̇  ꓷ̊  ꓷ̃  ꓷ̌
+
+
+F       /f/
+        F́  F̄  F̈  Ḟ  F̊  F̃  F̌
+
+G       /g/
+        Ǵ  Ḡ  G̈  Ġ  G̊  G̃  Ǧ
+
+Ѓ       /ɟ/
+        Ѓ́  Ѓ̄  Ѓ̈  Ѓ̇  Ѓ̊  Ѓ̃  Ѓ̌
+
+H       /h/
+        H́  H̄  Ḧ  Ḣ  H̊  H̃  Ȟ
+
+
+J       /j/
+        J́  J̄  J̈  J̇  J̊  J̃  J̌
+
+K       /k/
+        Ḱ  K̄  K̈  K̇  K̊  K̃  Ǩ
+
+L       /l/
+        Ĺ  L̄  L̈  L̇  L̊  L̃  Ľ
+
+⅃       /ʎ/
+        ⅃́  ⅃̄  ⅃̈  ⅃̇  ⅃̊  ⅃̃  ⅃̌
+
+
+M       /m/
+        Ḿ  M̄  M̈  Ṁ  M̊  M̃  M̌
+
+N       /n/
+        Ń  N̄  N̈  Ṅ  N̊  Ñ  Ň
+
+Њ       /ɲ/
+        Њ́  Њ̄  Њ̈  Њ̇  Њ̊  Њ̃  Њ̌
+
+
+P       /p/
+        Ṕ  P̄  P̈  Ṗ  P̊  P̃  P̌
+
+Q       /q/
+        Q́  Q̄  Q̈  Q̇  Q̊  Q̃  Q̌
+
+R       /r/
+        Ŕ  R̄  R̈  Ṙ  R̊  R̃  Ř
+
+Я       /rː/
+        Я́  Я̄  Я̈  Я̇  Я̊  Я̃  Я̌
+
+
+S       /s/
+        Ś  S̄  S̈  Ṡ  S̊  S̃  Š
+
+Ƨ       /ʃ/
+        Ƨ́  Ƨ̄  Ƨ̈  Ƨ̇  Ƨ̊  Ƨ̃  Ƨ̌
+
+T       /t/
+        T́  T̄  T̈  Ṫ  T̊  T̃  Ť
+
+Θ       /θ/
+        Θ́  Θ̄  Θ̈  Θ̇  Θ̊  Θ̃  Θ̌
+
+
+V       /v/
+        V́  V̄  V̈  V̇  V̊  Ṽ  V̌
+
+X       /ks/
+        X́  X̄  Ẍ  Ẋ  X̊  X̃  X̌
+
+Џ       /dʒ/
+        Џ́  Џ̄  Џ̈  Џ̇  Џ̊  Џ̃  Џ̌
+
+Z       /z/
+        Ź  Z̄  Z̈  Ż  Z̊  Z̃  Ž
+
+Ж       /ʒ/
+        Ж́  Ж̄  Ӝ  Ж̇  Ж̊  Ж̃  Ж̌
